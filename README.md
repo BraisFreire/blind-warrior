@@ -2,6 +2,8 @@
 
 Text based game where four people enter a dark room blindfolded and have to find the others. To make this easy, they can feel the enemys when they are two squares away, and if they meet, will fight until dead.
 
+This code was made for achieve an exercise for the subject "Arquitectura Software" (Software Architecture) from the Computer Science Degree, Facultade de Informática da Coruña, Universidade da Coruña.
+
 ## Architecture
 
 This system it's a Leader/Worker to create and admin the game rooms and a Client-Server to interact the players with the system. 
